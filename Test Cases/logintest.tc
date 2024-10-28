@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>logintest</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>64d4a96a-3120-4bbf-9fb6-22b1d662f538</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dd20f538-e174-49e1-8366-84af95232253</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a45ca97c-e389-4f39-a624-5b7794dc3a98</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dd20f538-e174-49e1-8366-84af95232253</id>
+      <masked>false</masked>
+      <name>taikhoan</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a45ca97c-e389-4f39-a624-5b7794dc3a98</id>
+      <masked>false</masked>
+      <name>matkhau</name>
+   </variable>
+</TestCaseEntity>

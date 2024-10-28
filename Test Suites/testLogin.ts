@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>testLogin</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>0ced50ac-aa6b-490d-8b7a-58e2db8c542d</testSuiteGuid>
+   <testCaseLink>
+      <guid>f165681b-d5ca-42e5-8f0a-ae0f6072c5a7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/logintest</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>fcaa68fb-84aa-43a8-bfcd-99749ecfc753</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>fcaa68fb-84aa-43a8-bfcd-99749ecfc753</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>tendangnhap</value>
+         <variableId>dd20f538-e174-49e1-8366-84af95232253</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fcaa68fb-84aa-43a8-bfcd-99749ecfc753</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>matkhau</value>
+         <variableId>a45ca97c-e389-4f39-a624-5b7794dc3a98</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
